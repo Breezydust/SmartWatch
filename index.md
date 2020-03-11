@@ -1,8 +1,16 @@
 <html>
   <head></head>
   <body>
+   <h3 id="february-04-2020-week-5">Week 5 - February 04, 2020</h3>
+   <p>The requirements, development progress, and functionality of the mobile application have been documented and uploaded <a href="https://github.com/Breezydust/SmartWatch/blob/master/Documentation/MobileApplication.docx">here.</a> Information regarding the status and design of our development platform's image and firmware will be documented and submitted next week.</p>
+   <hr>
+   
+   <h3 id="january-29-2020-week-4">Week 4 - January 29, 2020</h3>
+   <p>Required resources for the project have been assessed, submitted and uploaded to the repository. A write-up of all required resources can be found <a href="https://github.com/Breezydust/SmartWatch/blob/master/Documentation/RequiredResources.docx">here.</a> Progress on the design and building of the mobile application will be submitted next week.</p>
+   <hr>
+    
    <h3 id="january-22-2020-week-3">Week 3 - January 22, 2020</h3>
-   <p>Introduction, scope, requirements and background of the project have been outlined and <a href="https://github.com/Breezydust/SmartWatch/blob/master/Documentation/IntroductionBackground.docx">uploaded</a> to the documentation folder. Required resources for the project will be assessed and submitted for next week.
+   <p>Introduction, scope, requirements and background of the project have been outlined and <a href="https://github.com/Breezydust/SmartWatch/blob/master/Documentation/IntroductionBackground.docx">uploaded</a> to the documentation folder. Required resources for the project will be assessed and submitted for next week.</p>
    <hr>
     
    <h3 id="january-15-2020-week-2">Week 2 - January 15, 2020</h3>
