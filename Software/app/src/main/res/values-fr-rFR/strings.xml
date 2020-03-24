@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBEAT</string>
+    <string name="login">"S'identifier "</string>
+    <string name="Settings">Réglages</string>
+    <string name="ABOUTUS">À propos de nous</string>
+    <string name="settings_title">Réglages</string>
+
+</resources>

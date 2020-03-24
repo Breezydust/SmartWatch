@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804185286703",
+    "firebase_url": "https://databse-3b5d8.firebaseio.com",
+    "project_id": "databse-3b5d8",
+    "storage_bucket": "databse-3b5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804185286703:android:aefb3644917e535d0ebeda",
+        "android_client_info": {
+          "package_name": "com.example.balib.mybeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804185286703-fkmlhkta5rlp3eus2kf1odsc86kesc92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balib.mybeat",
+            "certificate_hash": "ebd74b89aecc1234d6836b3834ad64709f658f5f"
+          }
+        },
+        {
+          "client_id": "804185286703-hgmt1l40flv1tfhhvb2puhfrl0117vmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu68WgGtq2NFAAsA3HblpCO30jLxI4ubQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804185286703-hgmt1l40flv1tfhhvb2puhfrl0117vmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

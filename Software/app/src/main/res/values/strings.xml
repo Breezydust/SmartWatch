@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyBEAT</string>
+    <string name="ABOUTUS">About Us</string>
+    <string name="set_timer" translatable="false">set_timer</string>
+    <string name="cancel_timer" translatable="false">cancel_timer</string>
+    <string name="settings_title">Settings</string>
+    <string name="timer_pic" translatable="false">alarm_clock3</string>
+    <string name="no_alarm_set" translatable="false">no_alarm_set</string>
+    <string name="start" translatable="false">start</string>
+    <string name="pause" translatable="false">pause</string>
+    <string name="reset" translatable="false">reset</string>
+    <string name="login">login-title</string>
+    <string name="Settings">settings_title</string>
+
+</resources>
