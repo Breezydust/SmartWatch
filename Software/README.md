@@ -1,3 +1,3 @@
 # Software
 
-This folder contains the app from CENG319
+This folder contains the project's mobile application
